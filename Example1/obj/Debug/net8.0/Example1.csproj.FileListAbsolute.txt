@@ -1,0 +1,14 @@
+E:\EFCore\Example1\bin\Debug\net8.0\Example1.exe
+E:\EFCore\Example1\bin\Debug\net8.0\Example1.deps.json
+E:\EFCore\Example1\bin\Debug\net8.0\Example1.runtimeconfig.json
+E:\EFCore\Example1\bin\Debug\net8.0\Example1.dll
+E:\EFCore\Example1\bin\Debug\net8.0\Example1.pdb
+E:\EFCore\Example1\obj\Debug\net8.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+E:\EFCore\Example1\obj\Debug\net8.0\Example1.AssemblyInfoInputs.cache
+E:\EFCore\Example1\obj\Debug\net8.0\Example1.AssemblyInfo.cs
+E:\EFCore\Example1\obj\Debug\net8.0\Example1.csproj.CoreCompileInputs.cache
+E:\EFCore\Example1\obj\Debug\net8.0\Example1.dll
+E:\EFCore\Example1\obj\Debug\net8.0\refint\Example1.dll
+E:\EFCore\Example1\obj\Debug\net8.0\Example1.pdb
+E:\EFCore\Example1\obj\Debug\net8.0\Example1.genruntimeconfig.cache
+E:\EFCore\Example1\obj\Debug\net8.0\ref\Example1.dll
