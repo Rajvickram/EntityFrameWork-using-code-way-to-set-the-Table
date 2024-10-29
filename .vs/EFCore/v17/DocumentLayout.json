@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\EFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEC890C6-3732-4704-B949-EF2703D0855C}|Example1\\Example1.csproj|e:\\efcore\\example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC890C6-3732-4704-B949-EF2703D0855C}|Example1\\Example1.csproj|solutionrelative:example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC890C6-3732-4704-B949-EF2703D0855C}|Example1\\Example1.csproj|e:\\efcore\\example1\\configuration\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC890C6-3732-4704-B949-EF2703D0855C}|Example1\\Example1.csproj|solutionrelative:example1\\configuration\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\EFCore\\Example1\\Migrations\\20241029062721_BranchDataSeeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Example1\\Migrations\\20241029062721_BranchDataSeeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC890C6-3732-4704-B949-EF2703D0855C}|Example1\\Example1.csproj|e:\\efcore\\example1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC890C6-3732-4704-B949-EF2703D0855C}|Example1\\Example1.csproj|solutionrelative:example1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC890C6-3732-4704-B949-EF2703D0855C}|Example1\\Example1.csproj|e:\\efcore\\example1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC890C6-3732-4704-B949-EF2703D0855C}|Example1\\Example1.csproj|solutionrelative:example1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\EFCore\\Example1\\Program.cs",
-              "RelativeDocumentMoniker": "Example1\\Program.cs",
-              "ToolTip": "E:\\EFCore\\Example1\\Program.cs",
-              "RelativeToolTip": "Example1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "DocumentIndex": 1,
+              "Title": "20241029062721_BranchDataSeeding.cs",
+              "DocumentMoniker": "E:\\EFCore\\Example1\\Migrations\\20241029062721_BranchDataSeeding.cs",
+              "RelativeDocumentMoniker": "Example1\\Migrations\\20241029062721_BranchDataSeeding.cs",
+              "ToolTip": "E:\\EFCore\\Example1\\Migrations\\20241029062721_BranchDataSeeding.cs",
+              "RelativeToolTip": "Example1\\Migrations\\20241029062721_BranchDataSeeding.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:12:40.052Z",
+              "WhenOpened": "2024-10-29T06:27:21.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BranchConfiguration.cs",
+              "DocumentMoniker": "E:\\EFCore\\Example1\\Configuration\\BranchConfiguration.cs",
+              "RelativeDocumentMoniker": "Example1\\Configuration\\BranchConfiguration.cs",
+              "ToolTip": "E:\\EFCore\\Example1\\Configuration\\BranchConfiguration.cs",
+              "RelativeToolTip": "Example1\\Configuration\\BranchConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:10:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\EFCore\\Example1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Example1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\EFCore\\Example1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Example1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:13:12.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "E:\\EFCore\\Example1\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Example1\\Models\\Branch.cs",
+              "ToolTip": "E:\\EFCore\\Example1\\Models\\Branch.cs",
+              "RelativeToolTip": "Example1\\Models\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:12:10.521Z",
               "EditorCaption": ""
             }
           ]
